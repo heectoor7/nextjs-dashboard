@@ -1,0 +1,12 @@
+{
+  "folder-color.pathColors": [
+    {
+      "folderPath": "nextjs-dashboard\\app\\dashboard\\",
+      "color": "foldercolorizer.color_006699"
+    },
+    {
+      "folderPath": "nextjs-dashboard\\app\\dashboard\\invoices\\",
+      "color": "foldercolorizer.color_00cc33"
+    }
+  ]
+}
